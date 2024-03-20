@@ -1,9 +1,9 @@
 import hell
 lang = input("Lütfen metninizin dilini giriniz(Eğer diliniz Türkçe ise 'tr' giriniz değilse enter tuşuna basınız): ")
-#x = input("Lütfen bir karakter giriniz:")
+x = input("Lütfen bir karakter giriniz:")
 
 #verilen karakterin hangi dilde ise o dilin alfabesinede var mı yok mu kontrol ediyor
-#hell.alfabemi(x,lang) 
+hell.alfabemi(x,lang) 
 
 
 
