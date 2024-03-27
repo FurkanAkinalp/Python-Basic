@@ -83,7 +83,7 @@ if __name__ == "__main__":
             zam_orani = float(input("Lütfen zam oranı giriniz:\n>$ "))
             A_firmasi.maas_zammi(id, zam_orani)
         elif secim == 's':
-            id = int(input("Zam yapılacak personel idsini giriniz:\n>$ "))
+            id = int(input("Silinecek personel idsini giriniz:\n>$ "))
             A_firmasi.personel_cikart(id)
         elif secim == 'q':
             print("Programdan çıkılıyor...")
