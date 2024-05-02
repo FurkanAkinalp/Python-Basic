@@ -1,3 +1,5 @@
+#Furkan Akınalp
+
 import sqlite3
 import time
 
@@ -48,7 +50,7 @@ def main():
     print("Metinler veritabanına eklendi.")
 
     metin1 = "Örnek metin 1"
-    metin2 = "Örnek metin 2"
+    metin2 = "Örnek metin 1"
 
     time.sleep(3) 
     print("Benzerlik hesaplanıyor")
