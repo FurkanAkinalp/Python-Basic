@@ -49,8 +49,6 @@ def main():
     metin_al(metin2)
     print("Metinler veritabanına eklendi.")
 
-    metin1 = "Örnek metin 1"
-    metin2 = "Örnek metin 1"
 
     time.sleep(3) 
     print("Benzerlik hesaplanıyor")
