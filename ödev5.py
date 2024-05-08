@@ -55,7 +55,7 @@ def metin_al(metin):
 def open_compare_window():
     compare_window = tk.Toplevel()
     compare_window.title("Metin Karşılaştırma")
-    compare_window.geometry("400x300")
+    compare_window.geometry("500x400")
 
     def algorithm1_compare(metin1,metin2): #karakter_benzerligi
         sayac = 0
